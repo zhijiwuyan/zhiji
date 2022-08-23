@@ -1,0 +1,26 @@
+Visual Studio IntelliCode
+Code Spell Checker
+Import Cost
+
+
+Auto Close Tag：匹配标签，关闭对应的标签。对于HTML/XML很实用。
+Auto Rename Tag：改变标签的时候同时改动开闭合标签；对于HTML/XML很实用。
+HTML CSS Support : 这个也是HTML必备插件之一。
+open-in-browser ： 一键在浏览器中打开
+Prettier - Code formatter ： 代码格式化插件，主要针对工程中的JavaScript / TypeScript / CSS
+Bracket Pair Colorizer ：很多括号的情况下，这个插件可以做一个颜色的区分，代码一目了然。
+Chinese (Simplified) Language Pack for Visual Studio Code ： 适用于 VS Code 的中文（简体）语言包。
+ HTML Boilerplate
+
+通过使用 HTML 模版插件，你就摆脱了为 HTML 新文件重新编写头部和正文标签的苦恼。你只需在空文件中输入 html，并按 Tab 键，即可生成干净的文档结构
+
+
+
+Auto Close Tag
+Auto Rename Tag
+HTML CSS Support
+Prettier - Code formatter 
+Bracket Pair Colorizer
+Chinese (Simplified) Language Pack for Visual Studio Code
+HTML Boilerplate
+ Icon Fonts
